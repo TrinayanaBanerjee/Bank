@@ -1,0 +1,1 @@
+Here, in the constructor ie. a function that compiles only once upon deployment, the deployer's address is fixed as og . Later in the withdraw function we compare the user's address with the original senders address to ensure that only they can withdraw sums from the contract.
